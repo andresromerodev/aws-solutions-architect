@@ -1,5 +1,5 @@
 # AWS Solutions Architect
-Scripts, applications and documents to prepare for the AWS Solutions Architect certifications.
+AWS scripts, apps and documents.
 
 
 ## AWS Rekognition App
